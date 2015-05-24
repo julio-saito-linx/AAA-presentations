@@ -7,6 +7,18 @@
 - dividir o tempo em partes. Ex, 1h - 6 partes de 10 min
 - no meio da apresentação todos já devem estar entendendo o que você está falando.
 
+- se sua apresentação estiver sendo gravada e será muito assistida via video, foque mais no público do vídeo.
+
+----------------
+
+#### CHECK:
+
+- resolução (4:3 16:9)
+- som
+- desligar skype e tudo o que pode atrapalhar
+- deixar tudo o que for usar aberto e pronto: editor, slides, terminal
+- não conte com a internet
+
 ----------------
 
 #### OK:
@@ -20,6 +32,7 @@
 - quando andar você quer que olhem pra você
 - quando parar você quer que olhem pro slide
 - mostre que se importa com o público
+
 
 #### not OK:
 
@@ -37,12 +50,31 @@
 
 ----------------
 
+#### Estrutura:
+
+- bla, bla, random think, demo
+- bla, bla, pause
+- bla, bla, joke
+- bla, bla, demo, demo, code
+
+----------------
+
 #### Demo:
 
 - escolher bem os exemplos, mesmo que não sejam seus
 - "qdo dá aquele estálo que aprendeu algo novo e tem que mostrar para alguém"
 - algo sempre vai dar errado - continue -
 - alguém sabia algo que era o contrário que você estava explicando: "não me diga que tudo que fiz foi em vão?!"
+
+
+----------------
+
+#### Apresentação
+
+- Olá, eu sou Y
+- Hoje vou falar sobre X
+- "Não leia os slides longos, apenas pequenas frases"
+- Demo: "Fale tudo o que estiver escrevendo"
 
 
 ## Mostrar a Issue
