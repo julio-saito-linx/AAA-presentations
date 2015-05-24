@@ -1,8 +1,8 @@
 
 # progress --> postal.js #402
 
-- azk PR: https://github.com/azukiapp/azk/pull/402
-
+- Issue: https://github.com/azukiapp/azk/issues/385
+- PR: https://github.com/azukiapp/azk/pull/402
 
 #### Postal.js (utils/postal_helper.js)
 
